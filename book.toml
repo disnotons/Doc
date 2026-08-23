@@ -1,7 +1,7 @@
 [book]
-title = "호킨스 박사님 강의 해설 — What Is Truth? The Absolute"
-authors = ["David R. Hawkins 강의 해설"]
-description = "2007년 7월 Spiritual Reality and Modern Man 강의 「What Is Truth? The Absolute」 해설 웹북"
+title = "호킨스 박사님 원문 기반 해설 웹북"
+authors = ["David R. Hawkins 저서·강의 해설"]
+description = "데이비드 R. 호킨스 박사님의 저서·강의를 원문에 근거해 주제별·강의별로 해설하는 웹북"
 language = "ko"
 src = "src"
 
