@@ -16,3 +16,4 @@
 - [2007.07.13 투명성과 속임수: 진실의 수준과 ‘real’의 정의](2007-07-what-is-truth-the-absolute/13_투명성과_속임수_진실의_수준과_real의_정의.md)
 - [2007.07.14 인식론과 프레이밍: 측정 정확성과 맥락화](2007-07-what-is-truth-the-absolute/14_인식론과_프레이밍_측정_정확성과_맥락화.md)
 - [2007.07.15 Accountability와 영적 스승의 유혹: 권력과 타락](2007-07-what-is-truth-the-absolute/15_Accountability와_영적_스승의_유혹_권력과_타락.md)
+- [2007.07.16 학계·과학·수사학의 추락: 상대주의와 소피스트리](2007-07-what-is-truth-the-absolute/16_학계_과학_수사학의_추락_상대주의와_소피스트리.md)
