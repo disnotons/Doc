@@ -15,3 +15,4 @@
 - [2007.07.12 몸과 죽음, 정체성: 유체이탈 경험과 칸트의 범주](2007-07-what-is-truth-the-absolute/12_몸과_죽음_정체성_유체이탈_경험과_칸트의_범주.md)
 - [2007.07.13 투명성과 속임수: 진실의 수준과 ‘real’의 정의](2007-07-what-is-truth-the-absolute/13_투명성과_속임수_진실의_수준과_real의_정의.md)
 - [2007.07.14 인식론과 프레이밍: 측정 정확성과 맥락화](2007-07-what-is-truth-the-absolute/14_인식론과_프레이밍_측정_정확성과_맥락화.md)
+- [2007.07.15 Accountability와 영적 스승의 유혹: 권력과 타락](2007-07-what-is-truth-the-absolute/15_Accountability와_영적_스승의_유혹_권력과_타락.md)
